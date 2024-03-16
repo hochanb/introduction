@@ -64,4 +64,4 @@
 <br>
 
 ## Name : 초롱이
-![](/chorong.jpg)
+![](img_hochan/chorong.jpg)
